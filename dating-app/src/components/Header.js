@@ -8,7 +8,7 @@ import ForumIcon from '@material-ui/icons/Forum';
 export default function Header() {
   return (
     <div className="header">
-      <h2></h2>
+
      {/* clickable person icon */}
       <IconButton>
         <PersonIcon fontSize='medium' className='header__icon'/>
