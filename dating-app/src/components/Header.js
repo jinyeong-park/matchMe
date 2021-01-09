@@ -11,7 +11,7 @@ export default function Header() {
 
      {/* clickable person icon */}
       <IconButton>
-        <PersonIcon fontSize='medium' className='header__icon'/>
+        <PersonIcon fontSize='large' className='header__icon'/>
       </IconButton>
 
       <img
@@ -21,7 +21,7 @@ export default function Header() {
       />
 
       <IconButton>
-        <ForumIcon fontSize='medium' className='header__icon'/>
+        <ForumIcon fontSize='large' className='header__icon'/>
       </IconButton>
 
     </div>
