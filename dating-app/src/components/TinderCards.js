@@ -19,6 +19,18 @@ export default function TinderCards() {
       {
         name: 'Jeff Bezos',
         url: "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5bb22ae84bbe6f67d2e82e05%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D560%26cropX2%3D1783%26cropY1%3D231%26cropY2%3D1455"
+      },
+      {
+        name: 'Jessica Alba',
+        url: "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTE4MDAzNDEwMzY0NDMzOTM0/jessica-alba-299896-1-402.jpg"
+      },
+      {
+        name: 'Scarlett Johansson',
+        url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Scarlett_Johansson_by_Gage_Skidmore_2_%28cropped%29.jpg/440px-Scarlett_Johansson_by_Gage_Skidmore_2_%28cropped%29.jpg"
+      },
+      {
+        name: 'Angelina Jolie',
+        url: "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTE5NDg0MDU1MDE2MDgwOTEx/angelina-jolie-9356782-1-402.jpg"
       }
     ])
 
