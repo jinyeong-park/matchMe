@@ -9,7 +9,7 @@
 - Deploy: Heroku, Firebase
 
 ## Screenshots ##
-![MatchMe Home](https://i.imgur.com/6Xx0OuB.png)
+ <img src="https://i.imgur.com/6Xx0OuB.png" width="300" height="500">
 ## Available Scripts
 
 In the project directory, you can run:
