@@ -40,10 +40,11 @@ app.post('/tinder/cards', (req, res) => {
   })
 });
 
-app.get('tinder/cards', (req, res) => {
+app.get('/tinder/cards', (req, res) => {
+  console.log('SERVER app.get')
   db_Cards.find((err, data) => {
     if (err) {
-      res.status(500).send(err)
+      res.status(500).send('SERVER POST ERROR')
     } else  {
       res.status(200).send(data);
     }
