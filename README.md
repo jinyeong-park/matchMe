@@ -1,5 +1,5 @@
-# Postcard #
-[Link to Postcard](https://match-me-dating-app.web.app/)
+# matchMe #
+[Link to MatchMe](https://match-me-dating-app.web.app/)
 >https://match-me-dating-app.web.app/
 
 ## Overview ##
