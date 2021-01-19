@@ -8,6 +8,8 @@
 - Stack : Mongo DB(Mongoose), Express, React JS, Node.js
 - Deploy: Heroku, Firebase
 
+## Screenshots ##
+![MatchMe Home](https://i.imgur.com/6Xx0OuB.png)
 ## Available Scripts
 
 In the project directory, you can run:
